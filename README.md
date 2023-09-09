@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, ReactJs, Mern Stack**
 
-- 📫 How to reach me **shaarmaxsurbhi@gmail.com**
+- 📫 How to reach me **sharmaxsurbhi@gmail.com**
 
 - ⚡ Fun fact **I am a bit sarcastic**
 
